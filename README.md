@@ -16,17 +16,16 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <o:Author>Vanxuan</o:Author>
   <o:Template>Normal</o:Template>
   <o:LastAuthor>Vanxuan</o:LastAuthor>
-  <o:Revision>3</o:Revision>
+  <o:Revision>5</o:Revision>
   <o:TotalTime>1</o:TotalTime>
   <o:Created>2024-07-25T15:26:00Z</o:Created>
-  <o:LastSaved>2024-07-25T15:27:00Z</o:LastSaved>
+  <o:LastSaved>2024-07-25T15:30:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>4</o:Words>
-  <o:Characters>16</o:Characters>
-  <o:Bytes>118</o:Bytes>
-  <o:Lines>1</o:Lines>
+  <o:Words>5</o:Words>
+  <o:Characters>17</o:Characters>
+  <o:Lines>2</o:Lines>
   <o:Paragraphs>1</o:Paragraphs>
-  <o:CharactersWithSpaces>19</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>21</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:CustomDocumentProperties>
@@ -56,6 +55,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
    <w:BreakWrappedTables/>
    <w:SplitPgBreakAndParaMark/>
   </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
   <m:mathPr>
    <m:mathFont m:val="Cambria Math"/>
    <m:brkBin m:val="before"/>
@@ -718,8 +718,11 @@ div.WordSection1
 
 <div class=WordSection1>
 
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>tesst
-xin chC o IT <o:p></o:p></span></p>
+<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>Xin loi
+who are you<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-spacerun:yes'>&nbsp;</span><o:p></o:p></span></p>
 
 </div>
 
